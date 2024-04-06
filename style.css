@@ -1,0 +1,19 @@
+body{
+	font:500 1.5em 'Raleway', sans-serif;
+	text-align:center;
+	text-transform: uppercase;
+	background: linear-gradient(to right, #ff0000, #303f9f);
+}
+
+h1{
+	font:600 3.5em 'Raleway', sans-serif;
+	text-align:center;
+	text-transform: uppercase;
+	letter-spacing: 0.2em;
+}
+
+h2{
+	font:500 1.5em 'Raleway', sans-serif;
+	text-align:center;
+	text-transform: uppercase;
+}
